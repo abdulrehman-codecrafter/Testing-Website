@@ -1,0 +1,15 @@
+
+@import "./sass/bootstrap";
+@import "./sass/feature-card";
+@import "./sass/frontened-home";
+@import "./sass/header";
+@import "./sass/product-card";
+
+
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600;700&family=Rubik:ital,wght@0,300..900;1,300..900&display=swap');
+:root{
+    --primary-color:#088178;
+}
+#root{
+    font-family: "Poppins", sans-serif;
+}
